@@ -1,0 +1,23 @@
+{
+    "attributes": [
+        {
+            "trait_type": "NFT",
+            "value": "Soulbound"
+        },
+        {
+            "trait_type": "Asset",
+            "value": "Non-transferable Badge"
+        },
+        {
+            "trait_type": "Badge",
+            "value": "W3S"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Hackathon"
+        }
+    ],
+    "description": "Web3Souls Hackathon",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSj3EsGhZBrQp4FdPo57fE8hYouxuzUqqomT9iLjCkC4h",
+    "name": "Web3Souls SBT"
+}
