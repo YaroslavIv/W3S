@@ -233,9 +233,9 @@
 	{
 		"inputs": [
 			{
-				"internalType": "address",
-				"name": "to",
-				"type": "address"
+				"internalType": "address[]",
+				"name": "addrlist",
+				"type": "address[]"
 			},
 			{
 				"internalType": "string",
