@@ -17,10 +17,17 @@
       "required": true
     },
     "wallets": {
-      "type": "string"
+      "displayName": "wallets",
+      "type": "component",
+      "repeatable": true,
+      "component": "wallets.wallets",
+      "required": true
     },
     "links": {
-      "type": "string"
+      "type": "component",
+      "repeatable": true,
+      "component": "links.links",
+      "required": true
     }
   }
 }

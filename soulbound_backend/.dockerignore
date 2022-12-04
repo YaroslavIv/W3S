@@ -1,0 +1,6 @@
+.temp/
+.cache/
+.git/
+build/
+node_modules/
+data/

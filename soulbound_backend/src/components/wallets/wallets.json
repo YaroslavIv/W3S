@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_wallets_wallets",
+  "info": {
+    "displayName": "wallets",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "string",
+      "required": true
+    },
+    "private": {
+      "type": "boolean",
+      "required": true
+    }
+  }
+}
