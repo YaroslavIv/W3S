@@ -14,7 +14,7 @@ function App() {
           backgroundPosition: "center",
           overflow: "scroll",
         }}
-        pt={150}
+        pt="80px"
         pb={100}
         width="100vw"
         height="100vh"
